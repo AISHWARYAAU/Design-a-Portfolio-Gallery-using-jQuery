@@ -1,20 +1,23 @@
-### **Portfolio Gallery using jQuery**
+# Portfolio Gallery using jQuery**
 
-###**Overview**
+## Overview
 This repository contains a simple and interactive Portfolio Gallery designed using jQuery. The Portfolio Gallery serves as a dynamic platform to showcase your projects, artworks, or designs in a visually appealing and interactive manner.
 
-### **Features**
+## Features
 Filtering by Category: Allows users to filter gallery items based on different categories such as web projects, design projects, etc.
 Interactive Hover Effect: Provides a zoom-in effect on gallery items when hovered over for a more engaging user experience.
 
-### **Technologies Used**
-## HTML: Used for creating the structure of the Portfolio Gallery.
-## CSS: Utilized for styling and layout design of the gallery.
-## jQuery: Implemented for adding dynamic and interactive features to the gallery.
+## Technologies Used
+### HTML: 
+Used for creating the structure of the Portfolio Gallery.
+### CSS:
+Utilized for styling and layout design of the gallery.
+### jQuery: 
+Implemented for adding dynamic and interactive features to the gallery.
 
-### Contributing
+## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the Portfolio Gallery, add new features, or fix any bugs.
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
