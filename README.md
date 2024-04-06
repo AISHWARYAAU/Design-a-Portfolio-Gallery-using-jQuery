@@ -21,3 +21,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+happy coding !
+![imgs](https://github.com/AISHWARYAAU/Design-a-Portfolio-Gallery-using-jQuery/assets/91381783/31d3c96f-30ab-4393-99aa-de5ad8b4858d)
+
